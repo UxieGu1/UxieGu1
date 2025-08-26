@@ -4,7 +4,7 @@
 
 Me chamo Guilherme, tenho 19 anos e concluí o ensino médio em uma escola profissionalizante no curso Técnico em Informática. Atualmente, curso Ciência da Computação na Universidade Federal do Ceará (UFC) e sou apaixonado por desenvolvimento de software.  
 
-Tenho experiência em **Java com Spring Boot** para criação de APIs robustas e escaláveis, **React** para desenvolvimento de interfaces modernas e dinâmicas, além de trabalhar com **bancos de dados relacionais e não relacionais**, atuando desde a modelagem até a administração e otimização de consultas.
+Tenho experiência em **Java com Spring Boot** para criação de APIs robustas e escaláveis, **React** para desenvolvimento de interfaces modernas e dinâmicas, Versionamento com **Git e Github**, além de trabalhar com **bancos de dados relacionais e não relacionais**, atuando desde a modelagem até a administração e otimização de consultas.
 
 Meu objetivo é construir soluções completas e bem estruturadas, sempre focando em boas práticas de programação, clean code e arquitetura de software.  
 
