@@ -106,27 +106,13 @@ Meu objetivo é construir soluções completas e bem estruturadas, sempre focand
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas e Hábitos
 
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=uxiegu1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=uxiegu1&theme=tokyonight&hide_border=true&locale=pt_BR" 
+    alt="GitHub Streak" 
   />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxiegu1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-<br clear="both"/>
-</br>
-
----
