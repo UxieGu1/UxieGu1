@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Guilherme Freires
 
-**`Desenvolvedor FullStack | Java & Spring Boot | React | MongoDB`**
+**`Desenvolvedor FullStack | Java & Spring Boot | React | PostgreSQL`**
 
 Me chamo Guilherme, tenho 19 anos e concluí o ensino médio em uma escola profissionalizante no curso Técnico em Informática. Atualmente, curso Ciência da Computação na Universidade Federal do Ceará (UFC) e sou apaixonado por desenvolvimento de software.  
 
