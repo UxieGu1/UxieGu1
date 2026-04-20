@@ -100,11 +100,9 @@ Meu objetivo é construir soluções completas e bem estruturadas, sempre focand
 
 ### 📊 Estatísticas e Hábitos
 
-<div align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=uxiegu1&theme=tokyonight&hide_border=true&locale=pt_BR" 
-    alt="GitHub Streak" 
-  />
+   <a href="https://github.com/UxieGu1">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UxieGu1&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UxieGu1&theme=radical&show_icons=true&include_all_commits=true&hide_border=false&count_private=true"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=UxieGu1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
