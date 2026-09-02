@@ -28,7 +28,7 @@ como stacks de backend complementares.
 ---
 
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 
 ### **Frontend**
@@ -66,8 +66,19 @@ Resolução de 8 desafios técnicos de mercado com foco em APIs REST em Java/Spr
 
 ---
 
+## Formação
 
-### 📊 Estatísticas e Hábitos
+- **Ciência da Computação (Bacharelado)** — Universidade Federal do Ceará (UFC), 2025–atual
+- **Técnico em Informática** — EEEP Maria Môsa da Silva, 2022–2024
+
+**Certificações:** Santander Bootcamp 2025 (Backend Java, DIO) · CI&T Backend
+Java & AWS (DIO) · Java Completo — POO + Projetos (Udemy) · Java com Spring
+Boot (Rocketseat) · Formação Java (Rocketseat)
+
+---
+
+
+### Estatísticas e Hábitos
 
 ...
 <br>
