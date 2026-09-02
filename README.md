@@ -1,35 +1,84 @@
 # 👨🏻‍💻 Guilherme Freires
 
-**`Backend Developer | Java & Spring | Golang | PostgreSQL | APIs REST | Microservices | AWS | Docker`**
+**` Desenvolvedor Full-Stack | Java & Spring | React & TypeScript | PostgreSQL | APIs REST | Microservices | AWS | Docker`**
 
-Me chamo Guilherme, tenho 20 anos e concluí o ensino médio em uma escola profissionalizante no curso Técnico em Informática. Atualmente, curso Ciência da Computação na Universidade Federal do Ceará (UFC) e sou apaixonado por desenvolvimento de software.  
 
-Tenho experiência em **Java com Spring Boot** para criação de APIs robustas e escaláveis, **React** para desenvolvimento de interfaces modernas e dinâmicas, Versionamento com **Git e Github**, além de trabalhar com **bancos de dados relacionais e não relacionais**, atuando desde a modelagem até a administração e otimização de consultas.
+Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC),
+construindo aplicações web completas — do banco de dados à interface — com
+base técnica sólida em backend e capacidade real de entregar frontend.
 
-Meu objetivo é construir soluções completas e bem estruturadas, sempre focando em boas práticas de programação, clean code e arquitetura de software.  
+Atualmente atuo como bolsista de desenvolvimento na UFC, no backend do
+Aplicativo de Gestão e Mentoria acadêmica (Python/FastAPI), e desenvolvo
+projetos pessoais full-stack em Java/Spring Boot + React.
+
+---
+
+
+## Posicionamento
+
+Minha base mais forte é **backend em Java/Spring**, com autenticação segura
+(Spring Security + JWT) e APIs REST bem estruturadas. A partir dessa base,
+também construo o **frontend em React/TypeScript**, integrando as duas
+camadas em produtos completos — não apenas consumindo APIs prontas, mas
+projetando a solução de ponta a ponta.
+
+Também tenho experiência prática com **Go (Gin)** e **Python (FastAPI)**
+como stacks de backend complementares.
 
 ---
 
-### Linguagens e Tecnologias:
+
+## 🛠️ Tecnologias & Ferramentas
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,html,css,javascript,typescript,nodejs,react,&theme=dark&perline=15)](https://skillicons.dev)
+### **Frontend**
 
-### Utilidades:
-
-[![My Skills](https://skillicons.dev/icons?i=docker,electron,figma,vscode,git,idea&theme=dark&perline=15)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,typescript,javascript,vite,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
 
-<br/>
+### **Backend**
 
+[![Backend](https://skillicons.dev/icons?i=java,spring,go,nodejs&theme=dark)](https://skillicons.dev)
+
+
+### **Ferramentas & Práticas**
+
+[![Tools](https://skillicons.dev/icons?i=postgresql,mongodb,docker,git,github,githubactions,junit&theme=dark)](https://skillicons.dev)
+
+
+## Projetos em destaque
+
+### [Moto Stock](https://github.com/UxieGu1) — Aplicação full-stack de gestão de estoque
+Sistema completo para gestão de estoque de peças automobilísticas.
+- **Backend:** 39 endpoints REST com autenticação JWT, em Java/Spring Boot + PostgreSQL
+- **Frontend:** React, TypeScript, Vite e Tailwind CSS — 8 telas dinâmicas para
+  cadastro de produtos, usuários, fornecedores e categorias
+
+### Gopportunities — Go & Gin
+CRUD de usuários em Go com autenticação e tratamento seguro de senhas.
+- Projeto estruturado em camadas (handlers, services, repositories)
+- Clean Architecture e princípios SOLID aplicados para manutenibilidade e testabilidade
+
+### Desafios Backend — Itaú, BTG, CNAB
+Resolução de 8 desafios técnicos de mercado com foco em APIs REST em Java/Spring Boot.
+- Processamento de transações financeiras e parsing de arquivos CNAB
+- Geração de estatísticas em tempo real a partir dos dados processados
 
 ---
+
 
 ### 📊 Estatísticas e Hábitos
 
-   <a href="https://github.com/UxieGu1">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UxieGu1&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UxieGu1&theme=radical&show_icons=true&include_all_commits=true&hide_border=false&count_private=true"/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=UxieGu1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+...
+<br>
+
 </div>
+
+
+
+## 📫 Contato
+
+- 💼 LinkedIn: [Guilherme Freires](linkedin.com/in/guilhermeefreires)
+- 📧 Email: guilhermefreires10@gmail.com
+- 💻 GitHub: [UxieGu1](https://github.com/UxieGu1)
 
